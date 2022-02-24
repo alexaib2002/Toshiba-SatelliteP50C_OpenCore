@@ -22,9 +22,10 @@ Although I'm not working actively on fixing these problems (as I won't use macOS
 - No powersave option on battery menu (could have some relation with draining too fast?)
 
 ## Credits
-<a href="http://apple.com/">Apple</a> for developing macOS
-<a href="https://dortania.github.io/OpenCore-Install-Guide/">dortania</a> for providing OpenCore and its excellent documentation
-<a href="https://github.com/acidanthera">acidanthera</a> for providing a big fraction of the kexts/drivers used in the process
-<a href="https://github.com/vit9696">vit9696</a> for providing Lilu.kext
-<a href="https://github.com/alexandred">alexandred</a> for providing VoodooI2C
+
+- <a href="http://apple.com/">Apple</a> for developing macOS
+- <a href="https://dortania.github.io/OpenCore-Install-Guide/">dortania</a> for providing OpenCore and its excellent documentation
+- <a href="https://github.com/acidanthera">acidanthera</a> for providing a big fraction of the kexts/drivers used in the process
+- <a href="https://github.com/vit9696">vit9696</a> for providing Lilu.kext
+- <a href="https://github.com/alexandred">alexandred</a> for providing VoodooI2C
 
